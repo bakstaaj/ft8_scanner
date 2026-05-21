@@ -22,7 +22,7 @@
 #define ARRAY_LEN(a) ((int)(sizeof(a) / sizeof((a)[0])))
 #endif
 
-#define MODES_DEFAULT_RATE       2400000
+#define MODES_DEFAULT_RATE       768000
 #define MODES_FALLBACK_RATE      2400000
 #define MODES_AUDIO_RATE         12000
 #define MODES_RF_BW              200000
